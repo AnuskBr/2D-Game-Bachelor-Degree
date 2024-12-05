@@ -18,4 +18,4 @@ The story behind "In Search of Pikachu" is based on a real-life adventure. The p
 - Movement: Use the arrow keys to move or the A and D keys.
 - Jump: Press the Space bar or arrow key to jump.
 
-**For more information on how the game was created, please refer to the [LICENTA.docx](documentation) available in Romanian**
+**For more information on how the game was created, please refer to the [documentation](LICENTA.docx) available in Romanian**
