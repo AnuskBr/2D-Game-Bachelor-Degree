@@ -20,5 +20,5 @@ The story behind "In Search of Pikachu" is based on a real-life adventure. The p
 
 **For more information on how the game was created, please refer to the [documentation](LICENTA.docx) available in Romanian**
 
-![joc_2d-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9557c74f-fdf6-40e7-9fe1-891e7de8879e)
+![joc_2d-MadewithClipchamp-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/18d1b6bf-2586-4f0c-b4cf-dcd567805b06)
 
